@@ -1,5 +1,5 @@
 # oktaapientitlements
-apis to get assigned roles/entitlements
+APIs to get assigned roles/entitlements
 
 There are 4 Endpoints for the entitlements API…
 
